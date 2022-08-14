@@ -1,2 +1,2 @@
 # PytorchGradDescent
-Implementation of grad descent from scratch ( technically not, but used PyTorch )
+Implementation of gradient descent from scratch ( technically not, but used PyTorch )
